@@ -257,7 +257,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](outputmodul2/ssunguided1.png)
+> ![Screenshot bagian x](ssunguided1modul2.png)
 
 Program ini menampilkan matriks 3x3 dan hasil transposenya. Fungsi transpose() menukar posisi baris dan kolom dari matriks asal ke matriks hasil. Fungsi cetakMatriks() digunakan untuk menampilkan isi matriks ke layar. Di dalam main(), program mendefinisikan matriks awal, menampilkannya, lalu memanggil fungsi transpose() untuk menghasilkan dan menampilkan matriks hasil transpose.
 
@@ -295,7 +295,7 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](outputmodul2/ssunguided2.png)
+> ![Screenshot bagian x](ssunguided2modul2.png)
 
 Program ini mendemonstrasikan konsep call by reference di C++. Fungsi kuadratkan() menerima parameter dengan referensi (int &x), sehingga perubahan di dalam fungsi langsung memengaruhi variabel aslinya. Nilai awal angka adalah 5, lalu setelah dipanggil kuadratkan(angka), nilainya menjadi 25 karena dikalikan dengan dirinya sendiri.
 ## Referensi
